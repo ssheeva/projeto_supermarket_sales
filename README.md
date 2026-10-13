@@ -20,11 +20,6 @@ seu terminal:
 .venv\Scripts\activate.bat
 ```
 
-```sh
-# Linux ou macOS
-source .venv/bin/activate
-```
-
 Com o ambiente ativado, instale as dependências do projeto:
 
 ```sh
