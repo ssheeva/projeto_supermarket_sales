@@ -52,7 +52,7 @@ nome_da_tabela = "raw"
 df.to_sql(
     name=nome_da_tabela, 
     con=engine, 
-    if_exists="fail",   # Opções: 'fail' (erro se já existir), 'replace' (recria), 'append' (adiciona)
+    if_exists="replace",   # Opções: 'fail' (erro se já existir), 'replace' (recria), 'append' (adiciona)
     index=False         # Define se o índice do Pandas deve virar uma coluna na tabela
 )
 
