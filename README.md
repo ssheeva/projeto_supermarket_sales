@@ -64,30 +64,46 @@ Perguntas de negócio a serem respondidas:
 
 ![Faturamento por Filial](data/processed/01_faturamento_por_filial.png)
 
+O maior faturamento veio da filial de Giza.
+
 ## Qual filial realizou a maior quantidade de vendas?
 
 ![Vendas por Filial](data/processed/02_vendas_por_filial.png)
+
+A filial de Alex realizou a maior quantidade de vendas.
 
 ## Qual linha de produto apresentou o maior faturamento?
 
 ![Linha de Produto com maior Faturamento](data/processed/03_faturamento_por_produto.png)
 
+A Linha de Food and Bevereges foi o que apresentou o maior faturamento.
+
 ## Qual linha de produto recebeu a melhor avaliação média?
 
 ![Avaliação de Média por Produto](data/processed/04_avaliao_media_por_produto.png)
+
+A linha de Food and Bevereges recebeu a melhor avaliação média.
 
 ## Qual foi a forma de pagamento mais utilizada?
 
 ![Forma de Pagamento mais utilizada](data/processed/05_forma_pagamento.png)
 
+A forma de pagamento mais utilizada foi Ewallet.
+
 ## Qual foi o valor médio das vendas?
 
+![Valor medio das vendas](data/processed/Avg_vendas.png)
 
+O valor médio das vendas foi de: 322.96.
 
 ## Qual foi a maior venda registrada?
 
+![Maior venda registrada](data/processed/Maior_venda.png)
 
+A maior venda registrada foi de: 1042.65.
 
 ## Em qual dia da semana ocorreu a maior quantidade de vendas?
 
 ![Dia da semana com a maior quantidade de Vendas](data/processed/08_semana_maior_venda.png)
+
+O dia da semana que ocorreu a maior quantiade de vendas foi o Sábado.
